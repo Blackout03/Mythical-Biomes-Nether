@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_pressed",
+  "textures": {
+    "texture": "mythicalbiomesnether:block/verde_planks"
+  }
+}

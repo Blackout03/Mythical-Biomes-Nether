@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "mythicalbiomesnether:block/verde_stem"
+    },
+    "axis=z": {
+      "model": "mythicalbiomesnether:block/verde_stem",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "mythicalbiomesnether:block/verde_stem",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

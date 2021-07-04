@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "mythicalbiomesnether:block/verde_crafting_table_front",
+    "down": "mythicalbiomesnether:block/verde_planks",
+    "up": "mythicalbiomesnether:block/verde_crafting_table_top",
+    "north": "mythicalbiomesnether:block/verde_crafting_table_front",
+    "east": "mythicalbiomesnether:block/verde_crafting_table_side",
+    "south": "mythicalbiomesnether:block/verde_crafting_table_side",
+    "west": "mythicalbiomesnether:block/verde_crafting_table_front"
+  }
+}

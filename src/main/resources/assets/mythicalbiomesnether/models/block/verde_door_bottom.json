@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom",
+  "textures": {
+    "bottom": "mythicalbiomesnether:block/verde_door_bottom",
+    "top": "mythicalbiomesnether:block/verde_door_top"
+  }
+}

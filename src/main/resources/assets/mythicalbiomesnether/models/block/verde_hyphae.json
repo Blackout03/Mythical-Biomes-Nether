@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "mythicalbiomesnether:block/verde_stem",
+    "side": "mythicalbiomesnether:block/verde_stem"
+  }
+}

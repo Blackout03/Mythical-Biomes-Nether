@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "mythicalbiomesnether:block/verde_stalk_stage0",
+    "particle": "mythicalbiomesnether:block/verde_stalk_stage0"
+  }
+}

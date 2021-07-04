@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mythicalbiomesnether:block/verde_slab"
+    },
+    "type=double": {
+      "model": "mythicalbiomesnether:block/verde_planks"
+    },
+    "type=top": {
+      "model": "mythicalbiomesnether:block/verde_slab_top"
+    }
+  }
+}

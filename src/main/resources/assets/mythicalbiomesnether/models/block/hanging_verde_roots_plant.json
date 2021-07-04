@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "mythicalbiomesnether:block/hanging_verde_roots_plants",
+    "particle": "mythicalbiomesnether:block/hanging_verde_roots_plants"
+  }
+}

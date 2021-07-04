@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "bottom=true": {
+      "model": "mythicalbiomesnether:block/verde_scaffolding_unstable"
+    },
+    "bottom=false": {
+      "model": "mythicalbiomesnether:block/verde_scaffolding_stable"
+    }
+  }
+}

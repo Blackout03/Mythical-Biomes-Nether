@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "mythicalbiomesnether:block/verde_planks",
+    "top": "mythicalbiomesnether:block/verde_planks",
+    "side": "mythicalbiomesnether:block/verde_planks"
+  }
+}

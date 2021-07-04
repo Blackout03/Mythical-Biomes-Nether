@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mythicalbiomesnether:block/verde_planks",
+    "up": "mythicalbiomesnether:block/verde_planks",
+    "north": "mythicalbiomesnether:block/verde_bookshelf",
+    "east": "mythicalbiomesnether:block/verde_bookshelf",
+    "south": "mythicalbiomesnether:block/verde_bookshelf",
+    "west": "mythicalbiomesnether:block/verde_bookshelf",
+    "particle": "mythicalbiomesnether:block/verde_planks"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "effects": {
+    "mood_sound": {
+      "sound": "minecraft:ambient.soul_sand_valley.mood",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2
+    },
+    "additions_sound": {
+      "sound": "minecraft:ambient.soul_sand_valley.additions",
+      "tick_chance": 0.0111
+    },
+    "music": {
+      "sound": "minecraft:music.nether.soul_sand_valley",
+      "min_delay": 12000,
+      "max_delay": 24000,
+      "replace_current_music": false
+    },
+    "particle": {
+      "options": {
+        "type": "minecraft:ash"
+      },
+      "probability": 0.00625
+    },
+    "ambient_sound": "minecraft:ambient.soul_sand_valley.loop",
+    "sky_color": 7254527,
+    "fog_color": 1787717,
+    "water_color": 4159204,
+    "water_fog_color": 329011
+  },
+  "surface_builder": "mythicalbiomesnether:verde_forest",
+  "carvers": {
+    "air": [
+      "minecraft:nether_cave"
+    ]
+  },
+  "features": [
+    [
+      "mythicalbiomesnether:hanging_verde_roots"
+    ],
+    [
+      "mythicalbiomesnether:verde_fungi_trees"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "minecraft:spring_open",
+      "mythicalbiomesnether:obsidian_extra",
+      "mythicalbiomesnether:obsidian",
+      "minecraft:patch_crimson_roots",
+      "minecraft:patch_fire",
+      "minecraft:ore_magma",
+      "minecraft:ore_soul_sand",
+      "minecraft:ore_gravel_nether",
+      "minecraft:ore_blackstone",
+      "minecraft:spring_closed",
+      "minecraft:ore_gold_nether",
+      "minecraft:ore_quartz_nether",
+      "minecraft:ore_debris_large",
+      "minecraft:ore_debris_small"
+    ],
+    [
+      "minecraft:spring_lava",
+      "mythicalbiomesnether:verde_plants",
+      "mythicalbiomesnether:verde_stalk"
+    ]
+  ],
+  "starts": [
+    "minecraft:fortress",
+    "minecraft:ruined_portal_nether",
+    "minecraft:nether_fossil"
+  ],
+  "spawners": {
+    "water_ambient": [],
+    "ambient": [],
+    "misc": [],
+    "water_creature": [],
+    "creature": [
+      {
+        "type": "minecraft:strider",
+        "weight": 60,
+        "minCount": 1,
+        "maxCount": 2
+      }
+    ],
+    "monster": [
+      {
+        "type": "minecraft:ghast",
+        "weight": 30,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:blaze",
+        "weight": 10,
+        "minCount": 2,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:zombified_piglin",
+        "weight": 80,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:magma_cube",
+        "weight": 100,
+        "minCount": 2,
+        "maxCount": 5
+      },
+      {
+        "type": "minecraft:piglin",
+        "weight": 15,
+        "minCount": 4,
+        "maxCount": 4
+      }
+    ]
+  },
+  "spawn_costs": {},
+  "precipitation": "none",
+  "temperature": 2,
+  "downfall": 0,
+  "category": "nether",
+  "depth": 0.1,
+  "scale": 0.2
+}

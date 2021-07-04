@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/flower_pot_cross",
+  "textures": {
+    "plant": "mythicalbiomesnether:block/verde_fungus"
+  }
+}

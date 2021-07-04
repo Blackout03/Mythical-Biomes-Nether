@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "mythicalbiomesnether:block/verde_fungus",
+    "particle": "mythicalbiomesnether:block/verde_fungus"
+  }
+}

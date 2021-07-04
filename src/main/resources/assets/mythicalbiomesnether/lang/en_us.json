@@ -1,0 +1,34 @@
+{
+  "biome.mythicalbiomesnether.verde_forest": "Verde Torrids",
+  
+  "block.mythicalbiomesnether.hanging_verde_roots": "Hanging Verde Roots",
+  "block.mythicalbiomesnether.hanging_verde_roots_plant": "Hanging Verde Roots Plant",
+  "block.mythicalbiomesnether.potted_verde_fungus": "Potted Verde Fungus",
+  "block.mythicalbiomesnether.stripped_verde_hyphae": "Stripped Verde Hyphae",
+  "block.mythicalbiomesnether.stripped_verde_stem": "Stripped Verde Stem",
+  "block.mythicalbiomesnether.verde_bookshelf": "Verde Bookshelf",
+  "block.mythicalbiomesnether.verde_button": "Verde Button",
+  "block.mythicalbiomesnether.verde_crafting_table": "Verde Crafting Table",
+  "block.mythicalbiomesnether.verde_door": "Verde Door",
+  "block.mythicalbiomesnether.verde_fence": "Verde Fence",
+  "block.mythicalbiomesnether.verde_fence_gate": "Verde Fence Gate",
+  "block.mythicalbiomesnether.verde_fungus": "Verde Fungus",
+  "block.mythicalbiomesnether.verde_hyphae": "Verde Hyphae",
+  "block.mythicalbiomesnether.verde_nylium": "Verde Nylium",
+  "block.mythicalbiomesnether.verde_planks": "Verde Planks",
+  "block.mythicalbiomesnether.verde_pressure_plate": "Verde Pressure Plate",
+  "block.mythicalbiomesnether.verde_roots": "Verde Roots",
+  "block.mythicalbiomesnether.verde_sapling": "Verde Sapling",
+  "block.mythicalbiomesnether.verde_scaffolding": "Verde Scaffolding",
+  "block.mythicalbiomesnether.verde_slab": "Verde Slab",
+  "block.mythicalbiomesnether.verde_sprout": "Verde Sprout",
+  "block.mythicalbiomesnether.verde_stairs": "Verde Stairs",
+  "block.mythicalbiomesnether.verde_stalk_block": "Verde Stalk Block",
+  "block.mythicalbiomesnether.verde_stem": "Verde Stem",
+  "block.mythicalbiomesnether.verde_trapdoor": "Verde Trapdoor",
+  "block.mythicalbiomesnether.verde_wart_block": "Verde Wart Block",
+
+  "block.mythicalbiomesnether.light_blue_shroomlight": "Light Blue Shroomlight",
+
+  "itemGroup.mbn": "Mythical Biomes - Nether"
+}

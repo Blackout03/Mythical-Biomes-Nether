@@ -1,0 +1,22 @@
+modLoader = "javafml"
+loaderVersion = "[33,)"
+license = "LGPLv3"
+issueTrackerURL = ""
+[[mods]]
+modId = "mythicalbiomesnether"
+version = "1.0.0"
+displayName = "Mythical Biomes - Nether"
+displayURL = ""
+logoFile = "logo_text.png"
+credits = "On curse"
+authors = "Blackout"
+description = '''
+Mythical Biomes Addon Mod.
+This mod adds new biomes to the Nether.
+'''
+[[dependencies.mythicalbiomesnether]]
+modId = "forge"
+mandatory = true
+versionRange = "[36.1.32,)"
+ordering = "NONE"
+side = "BOTH"
